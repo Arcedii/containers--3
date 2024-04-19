@@ -9,7 +9,6 @@
 ## Результаты
 После ввода адреса http://localhost:8000 в адресной строке, я увидел стартовую страницу Apache. Выполнив следующие команды:
 
-```bash
 ls -l /var/www/html/
 echo 'Hello, World!' > /var/www/html/index.html
 
